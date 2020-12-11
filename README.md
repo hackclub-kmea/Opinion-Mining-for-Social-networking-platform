@@ -1,6 +1,6 @@
 # Opinion-Mining-for-Social-networking-platform
 ## Members
-Lilly Dhaneesha 
+Lilly Dhaneesha  
 sulphiya v.n   
 Farzana Khareem  
 
