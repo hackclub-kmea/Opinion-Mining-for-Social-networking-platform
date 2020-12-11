@@ -1,4 +1,7 @@
 # Opinion-Mining-for-Social-networking-platform
-## Members  
-Lilly Dhaneesha 
+## Members
+Lilly Dhaneesha  
+sulphiya v.n   
+Farzana Khareem  
 Divya jolly  
+
